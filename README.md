@@ -1,8 +1,12 @@
 # MOOC_list
-1. Introduction to Computer Science and Programming Using Python    Edx    MITx -  6.00.1x   2014
-2. Data Structures and Algorithm Design 数据结构与算法设计    Edx    TsinghuaX -  30240184x    2015
-3. Learning How to Learn    Coursera    2016
-4. The Web Developer Bootcamp    Udemy  2018
+1. Introduction to Computer Science and Programming Using Python    
+- Edx    MITx -  6.00.1x   2014
+2. Data Structures and Algorithm Design 数据结构与算法设计    
+- Edx    TsinghuaX -  30240184x    2015
+3. Learning How to Learn    
+- Coursera    2016
+4. The Web Developer Bootcamp    
+- Udemy  2018
 
 # Reading_list
 IT读书清单
