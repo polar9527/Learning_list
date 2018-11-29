@@ -59,67 +59,67 @@ IT读书清单
     - 2016年03月22日-2016年03月23日    [95%] 
 20. The Definitive Guide to Django                                     
     - 2016年03月25日-2016年06月14日
-- Pro Git                                                                   
+21. Pro Git                                                                   
     - 2016年04月23日-2016年05月05日    [暂停] 6.4 Managing an organization
-21. Head First HTML5 Programming    550                    
+22. Head First HTML5 Programming    550                    
     - 2016年05月04日-2016年05月09日
-22. Django by Example                450                            
+23. Django by Example                450                            
     - 2016年04月27日-2016年07月07日
-23. Learning Python 5th 1600    
+24. Learning Python 5th 1600    
     - 2016年04月14日-2016年09月08日
-24. JavaScript DOM编程艺术        280                            
+25. JavaScript DOM编程艺术        280                            
     - 2016年09月27日-2016年09月30日
-25. Redis入门指南                          200                            
+26. Redis入门指南                          200                            
     - 2016年10月07日-2016年10月08日
-26. 数据库系统概论     490/750     
+27. 数据库系统概论     490/750     
     - 2016年10月24日-2017年03月07日  [65%]
-27. Web scraping with Python      230
+28. Web scraping with Python      230
     - 2017年03月03日-2017年03月15日
-28. Head First Java			  675  
+29. Head First Java			  675  
     - 2017年03月23日-2017年03月25日
-29. Head First 设计模式			  630 
+30. Head First 设计模式			  630 
     - 2017年03月19日-2017年03月25日
-30. Introduction to Asynchronous Programming with Twisted   100	
+31. Introduction to Asynchronous Programming with Twisted   100	
     - 2017年03月19日-2017年03月29日
-31. Learning Scrapy			 225
+32. Learning Scrapy			 225
     - 2017年03月08日-2017年03月31日	[80%]
-32. 汇编语言[王爽]			      330
+33. 汇编语言[王爽]			      330
     - 2017年04月01日-2017年04月03日
-33. x86汇编语言-从实模式到保护模式	 370
+34. x86汇编语言-从实模式到保护模式	 370
     - 2017年04月04日-2017年04月14日
-34. Orange's 一个操作系统的实现		300/470
+35. Orange's 一个操作系统的实现		300/470
     - 2017年04月20日-2017年04月27日	  [60%]  
     Orange's 一个操作系统的实现		470
     - 2017年08月11日-2017年09月09日	  [100%]
-35. HTTP权威指南		400/550
+36. HTTP权威指南		400/550
     - 2017年04月29日-2017年05月04日	  [70%]
-36. Vagrant: Up and Running		150	
+37. Vagrant: Up and Running		150	
     - 2017年05月20日-2017年06月10日
-37. Python源码剖析		480
+38. Python源码剖析		480
     - 2017年09月12日-2017年09月29日
-38. Python Web开发：测试驱动方法  382    [60%]  
+39. Python Web开发：测试驱动方法  382    [60%]  
     - 2017年10月01日-2018年01月07日
-39. AWK程序设计语言              168     [36%]		   
+40. AWK程序设计语言              168     [36%]		   
     - 2018年01月08日-2018年01月15日   
-40. 程序员的自我修养			 450	 [80%]     
+41. 程序员的自我修养			 450	 [80%]     
     - 2018年03月27日-2018年04月12日
-41. 鸟哥的Linux私房菜：服务器架设篇      [80%]   
+42. 鸟哥的Linux私房菜：服务器架设篇      [80%]   
     - 2017年11月01日-2018年04月01日
-42. Linux/UNIX系统编程手册    1150     
+43. Linux/UNIX系统编程手册    1150     
     - 2017年10月01日-2018年05月14日    
-43. TCP/IP详解 卷1  核心部分       250/400         
+44. TCP/IP详解 卷1  核心部分       250/400         
     - 2018年04月28日-2018年06月07日  
-44. The TCP/IP Guide  TCP/IP相关部分           
+45. The TCP/IP Guide  TCP/IP相关部分           
     - 2018年05月26日-2018年06月07日     
-45. The Go Programming Language    370    
+46. The Go Programming Language    370    
     - 2018年06月21日-2018年07月01日  
-46. The Docker Book                400    
+47. The Docker Book                400    
     - 2018年07月01日-2018年07月15日    
-47. JavaScript高级程序设计          720    
+48. JavaScript高级程序设计          720    
     - 2018年09月03日-2018年09月19日   
-48. Java核心技术  卷一              500      
+49. Java核心技术  卷一              500      
     - 2018年09月22日-2018年10月05日  
-49. Java核心技术  卷二              400      
+50. Java核心技术  卷二              400      
     - 2018年10月06日-2018年10月13日   
-50. Head first Servlets & JSP	   800	    		                 
+51. Head first Servlets & JSP	   800	    		                 
     - 2018年10月16日-2018年10月30日    
