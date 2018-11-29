@@ -58,7 +58,7 @@ IT读书清单
 19. 廖雪峰JavaScript教程                                                  
     - 2016年03月22日-2016年03月23日    [95%] 
 20. The Definitive Guide to Django                                     
-    - 2016年03月25日-2016年06月14日
+    - 2016年03月25日-2016年06月14日    
 21. Pro Git                                                                   
     - 2016年04月23日-2016年05月05日    [暂停] 6.4 Managing an organization
 22. Head First HTML5 Programming    550                    
