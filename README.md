@@ -6,7 +6,9 @@
 3. Learning How to Learn    
     - Coursera    2016.11
 4. The Web Developer Bootcamp    
-    - Udemy  2018.11
+    - Udemy  2018.7 - 2018.11.11
+5. Vue JS 2 - The Complete Guide    
+    - Udemy  2018.11.13 - 2018.11.25
 
 # Reading_list
 IT读书清单
@@ -117,7 +119,7 @@ IT读书清单
     - 2018年09月03日-2018年09月19日   
 48. Java核心技术  卷一              500      
     - 2018年09月22日-2018年10月05日  
-49. Java核心技术  卷二              400   
-    - 2018年10月06日-2018年10月13日  
-50. Head first Servlets & JSP	   800	  		                 
+49. Java核心技术  卷二              400      
+    - 2018年10月06日-2018年10月13日   
+50. Head first Servlets & JSP	   800	    		                 
     - 2018年10月16日-2018年10月30日    
